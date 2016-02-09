@@ -1,0 +1,25 @@
+1. open visual studio - create new project C# - Class Libary
+2.2 Click References And Add Unturned Aseembly CsHarp And UnityEngine To References - How To find UnityEngine Assembly Unturned Folder
+Unturned_Data
+3.Now Right Click You Project = Add = New Item - Add : Hack.cs And Loader.cs = Copy Loader Source Paste To Loader.cs Copy Hack.cs Source
+Paste To Hack.cs Save Your Project.
+4.Download = UnitySuite Unknowncheats -
+5.Open UnitySuite And Go To Your C# Project Copy Hack.cs Loader.cs Paste UnitySuite Folder
+6.Go To UnitySuite Folder Open settings.ini = AND COPY THIS PASTE TO Settings.ini
+-------------------------------------------------------
+Source settingsini : 
+ [Injection]
+path=C:\Users\Suleyman\Desktop\UnitySuite\Loader.cs
+namespace=UnityGameObject
+class=Loader
+method=Load
+[Debug]
+conout=1
+ghost=1
+[Injector]
+target=Unturned.exe
+-------------------------------------------------------
+7.Open Your Game Go To Unitysuite Folder
+8.Open UnitySuite x64 - for 64bit
+9.Open UnitySuite_x86 for 32bit
+
